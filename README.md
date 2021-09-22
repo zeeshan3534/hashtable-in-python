@@ -1,2 +1,2 @@
 # hashtablehelp
-hash table help
+implement the hash table in python 
